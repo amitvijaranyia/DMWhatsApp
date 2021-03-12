@@ -14,3 +14,6 @@ How to use this application:
 
 It's as simple as that.
 
+It was developed in Java, Android Studio.
+
+19-October-2019
